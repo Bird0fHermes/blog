@@ -1,6 +1,7 @@
 <div class="sidenav">
 	<h3>Social Media</h3>
+	<br></br>
 	<a href="https://twitter.com/maxrbriggs">Twitter</a>
 	<a href="https://mastodon.social/@maxrbriggs">Mastodon</a>
-	<a href="about.html">About Me</a>
+	<a href="about.html"><h3>About Me</h3></a>
 </div>
