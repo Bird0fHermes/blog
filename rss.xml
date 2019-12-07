@@ -5,43 +5,28 @@
 		<link>https://highcharity.us/</link>
 		<description>Computer science, linguistics, journalism and anarchism. We got it all.</description>
 		<item>
+			<title>Fall Quarter Wrap-up</title>
+			<link>https://highcharity.us/blog/2019-12-07-fall_quarter_wrap-up.html</link>
+			<guid>9e954fff-a0bc-4585-8cc9-42dfb87080da</guid>
+			<description>Fall quarter kicked my ass...</description>
+		</item>
+		<item>
 			<title>A Review of Vintage Hitchcock</title>
 			<link>https://highcharity.us/blog/2019-11-25-review_of_vintage_hitchcock.html</link>
 			<guid>5d7ffa17-f686-4baf-8349-413e37afac13</guid>
 			<description>My brother's play was pretty good...</description>
-			<content:encoded><![CDATA[
-				<p>My brother's play was pretty good. Certainly not the best that his school has done, especially compared to their production of <em>The Laramie Project</em> last year. This year it was <em>Vintage Hitchcock: A Live Radio Play</em>.</p>
-				<p>The premise is interesting: take three of Hitchcock's earlier movies, turn them into radio dramas and perform them in a radio studio on stage, including fake commercials and live Foley.</p>
-				<p>The problems with this concept are that the story selection is not very strong and a radio play is not very interesting to watch.</p>
-				<p>The first story <em>The Lodger</em> is a short and sweet story about a family that rents a room out to a man who bears strong resemblance to the serial killer "The Avenger". The second story is <em>Sabotage</em>, the longest of the three and the best. It tells the tale of a terrorist ring and the efforts of a Scotland Yard detective to stop them. The third, final and weakest of the bunch is <em>The 39 Steps</em>. It is a spy thriller following a man on the run for a murder he did not commit and his efforts to catch a ring of spies.</p>
-				<p>The problem that arises with these stories is that there is a dissonance between the suspense that is created through the soundscape that the performers create and the inherent lack of suspense that comes from them speaking into a microphone in a radio station. When I closed my eyes and only listened, I was completely immersed. When I opened my eyes and watched, the play had the air of a dramatic script reading, not a production meant for public consumption.</p>
-				<p>As far as the acting went, these kids can act. Their English accents, while not very authentic sounding, are consistent through the performance and are not distracting. Actors play multiple parts in each story and do well in giving a distinct voice to each of their characters. In one story a girl plays a 12 year old boy, an Eastern-European terrorist and the Lord Mayor of London, all of which are played with different and convincing voices.</p>
-				<p>Sound design in this show features live sound effects created by the actors on stage. A large sheet of metal is rolled to imitate thunder. A small door is opened, closed, knocked on and locked to simulate the sound. A large sack is dropped as a body hits the ground. It is all blocked fantastically, sounds great and contributes well to the illusion that we are watching a radio station put on a radio play.</p>
-				<p>Coming off of the heartwrenching masterpiece that was The Company's production of <em>The Laramie Project</em>, this show had less of an impact on me and will not stay with me as long as last year's show. For a high school production though, the acting is solid and I did not dread seeing it, which is a win in my book.</p>
-					]]>
-			</content:encoded>
 		</item>
 		<item>
 			<title>Airporting</title>
 			<link>https://highcharity.us/blog/2019-11-22-airporting.html</link>
 			<guid>bde3fe3e-d6c1-4769-91e1-31c02b8b102c</guid>
 			<description>I'm on my way home for the weekend...</description>
-			<content:encoded><![CDATA[
-				<p>I'm on my way home for the weekend. While it's just a short jaunt from Seattle to Sacramento, flying makes me so fucking tired. I haven't even gotten on the plane and I'm ready for bed.</p>
-					]]>
-			</content:encoded>
 		</item>
 		<item>
 			<title>First post</title>
 			<link>https://highcharity.us/blog/2019-11-22-first.html</link>
 			<guid>58a3c5dd-9d67-4d37-9f30-ec72c6545667</guid>
 			<description>Hello, world!</description>
-			<content:encoded><![CDATA[
-				<p>Hello, world! This site started with the idea to make a completely static blog site / homepage. It took a little bit, but the blog is finally started.</p>
-				<p>I'm Max, a third year comp sci and linguistics student at Seattle Pacific University. I'm also the Multimedia Editor for the school's newspaper <a href="https://thefalcon.online">The Falcon</a>.</p>
-				<p>While my Twitter is mostly stream-of-consciousness bs, I'm hoping that this blog lends itself to longer, more thought out pieces of garbage.</p>
-					]]>
-			</content:encoded>
 		</item>
 	</channel>
 </rss>
