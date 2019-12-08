@@ -27,6 +27,14 @@
 	display:block;
 }
 
+.sidenav h2{
+	padding:6px 8px 6px 16px;
+	text-decoration:none;
+	font-size 30px;
+	color:#818181;
+	display:block;
+}
+
 .sidenav h3 {
 	padding:6px 8px 6px 16px;
 	text-decoration:none;
