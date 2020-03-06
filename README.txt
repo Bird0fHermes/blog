@@ -1,1 +1,1 @@
-Webcode for highcharity.us, a personal blog with an attached portfolio.
+Webcode for maxbriggs.org, a personal blog with an attached portfolio.
