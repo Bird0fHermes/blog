@@ -3,7 +3,13 @@
 	<channel>
 		<title>Max Briggs</title>
 		<link>https://maxbriggs.org/</link>
-		<description>Computer science, linguistics, journalism and anarchism. We got it all.</description>
+		<description>Computer science, linguistics, journalism and my life. Mostly the latter.</description>
+		<item>
+			<title>Coronavirus Travel Day</title>
+			<link>https://maxbriggs.org/blog/2020-03-09-coronavirus-travel.html</link>
+			<guid>5dd21fd4-bb23-43b1-b41b-66893428911f</guid>
+			<description>So as of Friday, the big three universities in Seattle have moved classes online...</description>
+		</item>
 		<item>
 			<title>Fall Quarter Wrap-up</title>
 			<link>https://maxbriggs.org/blog/2019-12-07-fall_quarter_wrap-up.html</link>
