@@ -34,7 +34,7 @@
 			<guid>5d7ffa17-f686-4baf-8349-413e37afac13</guid>
 			<description>My brother's play was pretty good...</description>
 			<content:encoded>
-			<img style="float:right" src="resources/vhposter.jpg" alt="Vintage Hitchcock poster">
+				<img style="float:right" src="resources/vhposter.jpg" alt="Vintage Hitchcock poster"></img>
 			<p>My brother's play was pretty good. Certainly not the best that his school has done, especially compared to their production of <em>The Laramie Project</em> last year. This year it was <em>Vintage Hitchcock: A Live Radio Play</em>.</p>
 			<p>The premise is interesting: take three of Hitchcock's earlier movies, turn them into radio dramas and perform them in a radio studio on stage, including fake commercials and live Foley.</p>
 			<p>The problems with this concept are that the story selection is not very strong and a radio play is not very interesting to watch.</p>
@@ -52,7 +52,7 @@
 			<description>I'm on my way home for the weekend...</description>
 			<content:encoded>
 			<p>I'm on my way home for the weekend. While it's just a short jaunt from Seattle to Sacramento, flying makes me so fucking tired. I haven't even gotten on the plane and I'm ready for bed.</p>
-			<content:encoded>
+			</content:encoded>
 		</item>
 		<item>
 			<title>First post</title>
