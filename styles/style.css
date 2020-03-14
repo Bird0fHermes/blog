@@ -1,42 +1,41 @@
 .sidenav {
+	font-family: sans-serif;
 	height:100%;
-	width:160px;
-	position:fixed;
-	z-index:1;
-	top:0;
-	left:0;
-	background-color:#111;
-	overflow-x:hidden;
-	padding-top:20px;
-}
-
-.sidenav p {
-	text-align:center;
-	padding:6px 8px 0px 16px;
-	text-decoration:none;
-	color:#818181;
-	display:block;
+	width:33%;
+	max-width: 150px;
+	position: fixed;
+	background-color: #111;
+	overflow: auto;
 }
 
 .sidenav a {
 	line-height:15px;
-	padding:6px 8px 6px 16px;
+	padding: 12px;
 	text-decoration:none;
 	font-size 25px;
 	color:#818181;
 	display:block;
 }
 
-.sidenav h2{
-	padding:6px 8px 6px 16px;
+.sidenav h2 {
+	padding: 0px 12px 0px;
 	text-decoration:none;
-	font-size 30px;
+	font-size 28px;
+	color:#818181;
+	display:block;
+}
+
+.sidenav p {
+	text-align: center;
+	padding: 0px 12px 0px;
+	text-decoration:none;
+	font-size: 20px;
 	color:#818181;
 	display:block;
 }
 
 .sidenav h3 {
-	padding:6px 8px 6px 16px;
+	padding: 0px 12px 0px;
 	text-decoration:none;
 	font-size 25px;
 	color:#818181;
@@ -44,8 +43,7 @@
 }
 
 .sidenav h4 {
-	padding:6px 8px 6px 16px;
-	padding-bottom: 0px;
+	padding: 12px;
 	text-decoration:none;
 	font-size 20px;
 	color:#818181;
@@ -61,14 +59,31 @@
 }
 
 .main {
-	margin-left: 160px;
-	margin-right: 300px;
-	padding: 0px 10px;
+	font-family: sans-serif;
+	margin-left: 150px;
+	margin-right: 28%;
+	padding: 1px 12px;
 }
 
-@media screen and (max-height:450px) {
-	.sidenav {padding-top:15px;}
-	.sidenav a {font-size:18px;}
+@media screen and (max-width: 700px) {
+	.sidenav {
+		width: 100%;
+		max-width: 100%;
+		height: auto;
+		position: relative;
+	}
+	.sidenav a {float: left;}
+	div.main {
+		margin-left: 0;
+		margin-right: 0;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	.sidebar a {
+		text-align: center;
+		float: none;
+	}
 }
 
 h1 {
