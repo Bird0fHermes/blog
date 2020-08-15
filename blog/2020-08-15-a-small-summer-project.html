@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="description" content="Max Briggs Personal Blog">
+		<meta name="author" content="Max Briggs">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="guid" content="32783a1b-183f-4996-8113-1825ea3aff75">
+		<meta name="keywords" content="C, bash, summer project">
+		<link rel="stylesheet" type="text/css" href="/styles/style.css">
+		<title>A Small Summer Project</title>
+	</head>
+
+	<body>
+		<div class="sidenav">
+			<a href="/"><h3>Home</h3></a>
+			<a href="https://twitter.com/maxrbriggs"><h3>Twitter</h3></a>
+			<a href="https://mastodon.social/@maxrbriggs"><h3>Mastodon</h3></a>
+			<a href="/portfolio.html"><h3>Portfolio</h3></a>
+			<a href="/about.html"><h3>About Me</h3></a>
+			<a href="/rss.xml"><h3>RSS</h3></a>
+		</div>
+		<div class="main">
+			<h1>A Small Summer Project</h1>
+			<p>I've put together a little program that I use to
+			manage my to-do list. It was originally a
+			<a href="resources/todo.sh">bash script</a>, which
+			I wrote back in May. The script allows me to add tomorrow's
+			date and a task to the text file that keeps track of the
+			list, as well as print the most recent entries in the
+			list.</p>
+			<p>I've found myself with some free time and the desire
+			to make something small, so I've ported my little bash
+			script to C. Functionality is mostly duplicated, though
+			the C program adds the ability to add items to the list
+			without opening a text editor. Writing this also gave me
+			the opportunity to mess around with makefiles and
+			PKGBUILDS, both of which I've found to be less daunting
+			than they seem.</p>
+			<p>I've put the project up on
+			<a href="https://github.com/maxrbriggs/todo">Github</a>
+			and have also created a
+			<a href="https://aur.archlinux.org/packages/todo-git/">
+				PKGBUILD</a> for Arch Linux. You can also
+			<a href="resources/todo-master.zip">download the utility
+				here.
+			</a> Both the bash script and the C utility are licensed
+			under the GNU General Public License Version 3.</p>
+                </div>
+	</body>
+</html>
