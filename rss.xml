@@ -11,7 +11,7 @@
 			<pubDate>Sat, 15 Aug 2020 15:00:00 UT-7</pubDate>
 			<description>I've put together a little program that I use to manage my to-do list...</description>
 			<content:encoded>
-				<p>I've put together a little program that I use to manage my to-do list. It was originally a <a href="https://maxbriggs.org/blog/resources/todo.sh">bash script</a>, which I wrote back in May. The script allows me to add tomorrow's date and a task to the text file that keeps track of the list, as well as print the most recent entries in the list.</p>
+			<p>I've put together a little program that I use to manage my to-do list. It was originally a <a href="https://maxbriggs.org/blog/resources/todo.sh">bash script</a>, which I wrote back in May. The script allows me to add tomorrow's date and a task to the text file that keeps track of the list, as well as print the most recent entries in the list.</p>
 			<p>I've found myself with some free time and the desire to make something small, so I've ported my little bash script to C. Functionality is mostly duplicated, though the C program adds the ability to add items to the list without opening a text editor. Writing this also gave me the opportunity to mess around with makefiles and PKGBUILDS, both of which I've found to be less daunting than they seem.</p>
 			<p>I've put the project up on <a href="https://github.com/maxrbriggs/todo">Github</a> and have also created a <a href="https://aur.archlinux.org/packages/todo-git/">PKGBUILD</a> for Arch Linux. You can also <a href="https://maxbriggsorg/blog/resources/todo-master.zip">download the utility here. </a> Both the bash script and the C utility are licensed under the GNU General Public License Version 3.</p>
 			</content:encoded>
